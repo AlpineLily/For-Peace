@@ -1,2 +1,2 @@
-# For-Peace
+# ForPeace
 Demo Custom Site
